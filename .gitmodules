@@ -1,0 +1,3 @@
+[submodule "LEGAL"]
+	path = LEGAL
+	url = https://github.com/taxies/LEGAL
