@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg13157" sodipodi:docname="ic_taxies.svg" inkscape:version="0.91 r" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px" height="150px"
+	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<sodipodi:namedview  inkscape:snap-bbox-midpoints="true" inkscape:window-maximized="1" inkscape:window-y="256" inkscape:pageshadow="2" inkscape:bbox-paths="true" inkscape:window-width="1366" inkscape:window-x="0" inkscape:pageopacity="0" inkscape:window-height="717" inkscape:guide-bbox="true" inkscape:bbox-nodes="true" inkscape:snap-bbox="true" inkscape:current-layer="svg13157" id="namedview3385" inkscape:snap-bbox-edge-midpoints="true" inkscape:cy="370.80117" guidetolerance="10" inkscape:zoom="0.61200253" objecttolerance="10" gridtolerance="10" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1" showgrid="false" inkscape:cx="296.78779" showguides="false">
+	<sodipodi:guide  id="guide4189" orientation="0.70710678,0.70710678" position="12.395396,18.719133"></sodipodi:guide>
+	<sodipodi:guide  id="guide4191" orientation="0.70710678,0.70710678" position="4.6815106,2.8178674"></sodipodi:guide>
+</sodipodi:namedview>
+<g>
+	<g>
+		<path fill="#FFCC29" d="M75.01,4.858c-38.681,0-70.151,31.47-70.151,70.151c0,38.683,31.47,70.152,70.151,70.152
+			c38.683,0,70.152-31.47,70.152-70.152C145.162,36.328,113.692,4.858,75.01,4.858z"/>
+		<path fill="#1A1A1A" d="M75.01,0.021c-41.349,0-74.989,33.641-74.989,74.989c0,41.35,33.641,74.99,74.989,74.99
+			C116.36,150,150,116.359,150,75.01C150,33.661,116.36,0.021,75.01,0.021z M75.01,145.162c-38.681,0-70.151-31.47-70.151-70.152
+			c0-38.682,31.47-70.151,70.151-70.151c38.683,0,70.152,31.47,70.152,70.151C145.162,113.692,113.692,145.162,75.01,145.162z"/>
+	</g>
+	<path id="_313622448" inkscape:connector-curvature="0" fill="#1A1A1A" d="M54.549,121.27H39.595L65.64,28.752h18.803
+		l25.983,92.517H95.471L75.003,52.484l-20.46,68.785H54.549z M89.476,121.27H60.547l14.464-15.88L89.476,121.27L89.476,121.27z"/>
+</g>
+</svg>
